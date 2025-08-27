@@ -1,0 +1,59 @@
+html {
+    font-family: sans-serif;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.hidden {
+    display: none;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.tb {
+    text-align: right;
+}
+
+#dark {
+    background-color: black;
+    color: white;
+}
+
+#light {
+    background-color: white;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#profile-pic {
+    display: flex;
+    justify-content: center;
+}
+
+#enter-button {
+    text-align: center;
+}
+
+#image {
+    width: 50%;
+    height: auto;
+}
